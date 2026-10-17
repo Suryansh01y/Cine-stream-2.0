@@ -28,8 +28,9 @@ The application provides a Netflix-like movie discovery experience with popular 
 
 - **Frontend Repository:** https://github.com/Suryansh01y/Cine-stream-2.0
 - **Backend Repository:** https://github.com/Suryansh01y/cine-stream-2.0-API
-- **Live Application:** https://cine-stream-2-0-3w79x3cth-suryanshyadavv01-1442s-projects.vercel.app
+- **Live Application:** https://cine-stream-2-0.vercel.app/
 - **Backend API:**  https://cine-stream-2-0-api.onrender.com
+-- **Video:** https://drive.google.com/drive/folders/13y59ZjZU_pn_lZDy5C12zTnJaH3DOMRh?usp=sharing
 
 
 
